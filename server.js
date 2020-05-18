@@ -11,6 +11,8 @@ const PORT = 3000;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+
+
 // Data
 // ================================================
 let notes = [
@@ -28,6 +30,8 @@ let notes = [
 
 // Routes
 // ===============================================
+
+
 app.get("/", function(request, response) {
     // response.send("Welcome to Note Taker!");
     response.sendFile(path.join(__dirname, "./index.html"));
@@ -35,7 +39,10 @@ app.get("/", function(request, response) {
 
 app.get("/notes", function(request, response) {
     response.sendFile(path.join(__dirname, "./notes.html"));
+
 });
+
+
 
 // Displays all notes
 app.get("/api/notes", function(request, response) {
@@ -56,8 +63,8 @@ app.get("/api/notes/:notes", function(request, response) {
         }
     }
 
-    // Otherwise, displays "No notes found"
-    return response.json(false);
+    // Otherwise, displays "No notes found" or false.
+    return response.json("No notes found.");
 });
 
 
@@ -68,14 +75,19 @@ app.post("/api/notes", function(request, response) {
     let newNotes = request.body;
 
     // Use a RegEx Pattern to remove spaces from newNotes
-    newNotes.id = newNotes.title.replace(/\s+/g, "").toLowerCase();
+    newNotes.id = newNotes.title.replace(/^/g, "").toUpperCase();
 
     console.log(newNotes);
 
     notes.push(newNotes);
 
     response.json(newNotes);
+
+
 });
+
+// Get and use the CSS file
+app.use(express.static("public"));
 
 // Listener
 // =======================================================
