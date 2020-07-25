@@ -24,7 +24,8 @@ To install necessary dependencies, run the following command:
 ## Usage  
 
 This is what the user needs to know about using the repo:
-- Plan out your day by creating some notes!  
+- Plan out your day by creating some notes! 
+![Plan the day](/stepOne.png) 
 
 ## License  
 
