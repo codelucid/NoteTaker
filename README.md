@@ -29,6 +29,7 @@ This is what the user needs to know about using the repo:
 - Press the "Get Started" button!
 ![Start Button](/stepTwo.png)
 - Compose your note!
+![Compose Note](/stepThree.png)
 
 ## License  
 
