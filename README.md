@@ -32,6 +32,7 @@ This is what the user needs to know about using the repo:
 ![Compose Note](/stepThree.png)
 - Input a Title!
 ![Title](/stepFour.png)
+- Input a Note!
 
 ## License  
 
