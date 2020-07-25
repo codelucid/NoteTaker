@@ -36,6 +36,7 @@ This is what the user needs to know about using the repo:
 ![Body](/stepFive.png)
 - Save the Note!
 ![Save](/stepSix.png)
+- Note is Added to Json file!
 
 ## License  
 
