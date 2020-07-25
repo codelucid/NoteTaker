@@ -27,6 +27,7 @@ This is what the user needs to know about using the repo:
 - Plan out your day by creating some notes! 
 ![Plan the day](/stepOne.png) 
 - Press the "Get Started" button!
+![Start Button](/stepTwo.png)
 
 ## License  
 
