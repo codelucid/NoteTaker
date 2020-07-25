@@ -34,6 +34,7 @@ This is what the user needs to know about using the repo:
 ![Title](/stepFour.png)
 - Input a Note!
 ![Body](/stepFive.png)
+- Save the Note!
 
 ## License  
 
