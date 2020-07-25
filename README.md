@@ -45,6 +45,7 @@ This is what the user needs to know about using the repo:
 - Save the Next Note!
 ![Save Next Note](/stepTen.png)
 - Delete the Note!
+![Delete](/stepEleven.png)
 
 ## License  
 
