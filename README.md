@@ -40,6 +40,7 @@ This is what the user needs to know about using the repo:
 ![Added to Json](/stepSeven.png)
 - Create Another Note!
 ![Compose](/stepEight.png)
+- Next Note's Title and Body
 
 ## License  
 
