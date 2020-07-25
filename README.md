@@ -43,6 +43,7 @@ This is what the user needs to know about using the repo:
 - Next Note's Title and Body
 ![Creation](/stepNine.png)
 - Save the Next Note!
+![Save Next Note](/stepTen.png)
 
 ## License  
 
