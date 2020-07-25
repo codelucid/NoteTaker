@@ -30,6 +30,8 @@ This is what the user needs to know about using the repo:
 ![Start Button](/stepTwo.png)
 - Compose your note!
 ![Compose Note](/stepThree.png)
+- Input a Title!
+![Title](/stepFour.png)
 
 ## License  
 
