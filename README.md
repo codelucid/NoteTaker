@@ -33,6 +33,7 @@ This is what the user needs to know about using the repo:
 - Input a Title!
 ![Title](/stepFour.png)
 - Input a Note!
+![Body](/stepFive.png)
 
 ## License  
 
