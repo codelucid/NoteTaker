@@ -39,6 +39,7 @@ This is what the user needs to know about using the repo:
 - Note is Added to Json file!
 ![Added to Json](/stepSeven.png)
 - Create Another Note!
+![Compose](/stepEight.png)
 
 ## License  
 
