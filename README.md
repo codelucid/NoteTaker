@@ -42,6 +42,7 @@ This is what the user needs to know about using the repo:
 ![Compose](/stepEight.png)
 - Next Note's Title and Body
 ![Creation](/stepNine.png)
+- Save the Next Note!
 
 ## License  
 
