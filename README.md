@@ -1,6 +1,6 @@
 # NoteTaker  
 
-![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
+![GitHub license](https://img.shields.io/badge/Skill-HTML-brightgreen) ![GitHub license](https://img.shields.io/badge/Skill-CSS-blue) ![GitHub license](https://img.shields.io/badge/Skill-JS-red) ![GitHub license](https://img.shields.io/badge/Skill-Express-yellow) ![GitHub license](https://img.shields.io/badge/Skill-NodeJS-orange)
 
 ## Description  
 
@@ -49,8 +49,7 @@ This is what the user needs to know about using the repo:
 
 ## License  
 
-The license for this project:
-None  
+![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
 
 ## Contributing  
 
